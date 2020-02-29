@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 lets do a merge conflict
 
 mine will win
+=======
+hellohow are you?
+fk
+>>>>>>> 10ddbe142a10b4b3e96bd18a2b4d6b3b460e876c
